@@ -6,7 +6,7 @@ import androidx.room.Database;
 import androidx.room.Room;
 import androidx.room.RoomDatabase;
 
-import com.example.mynotes.Database.Models.Notes;
+import com.example.mynotes.Models.Notes;
 
 @Database(entities = Notes.class, version = 1, exportSchema = false)
 public abstract class RoomDB extends RoomDatabase {

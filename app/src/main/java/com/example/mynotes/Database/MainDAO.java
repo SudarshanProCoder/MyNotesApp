@@ -6,7 +6,7 @@ import androidx.room.Delete;
 import androidx.room.Insert;
 import androidx.room.Query;
 
-import com.example.mynotes.Database.Models.Notes;
+import com.example.mynotes.Models.Notes;
 
 import java.util.List;
 

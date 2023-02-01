@@ -19,7 +19,7 @@ import android.widget.Toast;
 
 import com.example.mynotes.Adapters.NotesListAdapter;
 import com.example.mynotes.Database.RoomDB;
-import com.example.mynotes.Database.Models.Notes;
+import com.example.mynotes.Models.Notes;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 import java.util.ArrayList;

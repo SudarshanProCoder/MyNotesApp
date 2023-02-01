@@ -13,7 +13,7 @@ import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.Toast;
 
-import com.example.mynotes.Database.Models.Notes;
+import com.example.mynotes.Models.Notes;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
